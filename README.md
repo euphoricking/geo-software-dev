@@ -1,6 +1,7 @@
 -- WORKING WITH (software_dev_v1.yml) --
 FIRST STEP
 I forked the assignment repository and downloaded the two files.
+
 SECOND STEP
 I recreated the conda environment using the commands: conda env create -n geo_soft_conda --file software_dev_v1.yml
 
